@@ -1,1 +1,1 @@
-# Messaging Web Application using PHP and MYSQl
+# Messaging Web Application using PHP and MYSQL!
